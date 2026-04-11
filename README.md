@@ -1,4 +1,4 @@
-# 🔐 Indicators of Compromise (IOC) Detection & Incident Response Project
+# 🔐 Indicators of Compromise (IOC) Detection
 
 
 ## 📌 Overview
