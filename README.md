@@ -1,25 +1,5 @@
 # 🔐 Indicators of Compromise (IOC) Detection & Incident Response Project
 
-## 📖 Table of Contents
-- [Overview](#-overview)
-- [Problem Statement](#-problem-statement)
-- [Objectives](#-objectives)
-- [Architecture & Workflow](#️-architecture--workflow)
-- [Indicators of Compromise (IOCs)](#-indicators-of-compromise-iocs)
-- [Incident Response Lifecycle](#-incident-response-lifecycle)
-- [Detection Techniques](#️-detection-techniques)
-- [Digital Forensics & Evidence Collection](#-digital-forensics--evidence-collection)
-- [Hash Analysis & Malware Investigation](#-hash-analysis--malware-investigation)
-- [Tools & Technologies](#-tools--technologies)
-- [Case Study](#-case-study-malware-analysis-using-hash-intelligence)
-- [Mitigation & Defense Strategies](#️-mitigation--defense-strategies)
-- [Eradication & Recovery](#-eradication--recovery)
-- [Key Learnings](#-key-learnings)
-- [Future Enhancements](#-future-enhancements)
-- [References](#-references)
-- [Author](#-author)
-
----
 
 ## 📌 Overview
 
